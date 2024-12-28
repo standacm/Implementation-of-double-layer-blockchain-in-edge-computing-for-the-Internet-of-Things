@@ -4,4 +4,5 @@ The blockchain platform built on the Ubuntu 22.04.1 system is fiscobcos version 
 The Hash Chain Contract (HC) and Hash Chain System 3 Contract (HCS3) play a crucial role in the blockchain, enhancing the system’s efficiency and reliability through automation, transparency, data security, and reduced trust costs. The HC is responsible for the automatic execution of transactions, ensuring the integrity and traceability of the data, while the HCS3 introduces digital certificates, enhancing security and the trust mechanism, and supports multi-region chain generation, making it suitable for complex multi-party collaboration scenarios. Smart contracts not only transform the execution of traditional transactions but also provide a powerful trust mechanism and security for decentralized systems.
 The specific blockchain implementation flowchart is shown below:
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/3a0f81ef-a019-40b7-a5f4-21605625e79f" />
+![Uploading image.png…]()
+
